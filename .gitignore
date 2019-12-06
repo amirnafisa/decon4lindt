@@ -1,0 +1,10 @@
+.DS_Store
+coco_dataset/
+rcnn_dataset.tar.gz
+rcnn_dataset/
+svm_dataset/
+detection_unit/outputs/
+detection_unit/sample_input/
+detection_unit/__pycache__/
+detection_unit/models/
+
